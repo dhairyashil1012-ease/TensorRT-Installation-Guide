@@ -1,4 +1,11 @@
 # TensorRT Docker Workflow (Ubuntu)
+## Reference
+
+- TensorRT Container Installation Guide:
+  https://docs.nvidia.com/deeplearning/tensorrt/latest/installing-tensorrt/install-container.html
+
+- TensorRT Quick Start Guide:
+  https://docs.nvidia.com/deeplearning/tensorrt/latest/getting-started/quick-start-guide.html
 
 This guide explains how to use the NVIDIA TensorRT Docker container for converting ONNX models into TensorRT engines and running inference inside Jupyter Notebook.
 
